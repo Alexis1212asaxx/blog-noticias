@@ -1,11 +1,12 @@
-from app import app
+from app.main import app
 
-def test_home_status_code():
-    client = app.test_client()
-    response = client.get('/')
-    assert response.status_code == 200
 
-def test_home_content():
-    client = app.test_client()
-    response = client.get('/')
-    assert b"Blog de Noticias" in response.data
+def test_app_existe():
+    assert app is not None
+
+
+def test_home_ruta():
+    cliente = app.test_client()
+    respuesta = cliente.get('/')
+    assert respuesta.status_code == 200
+    assert b"Blog de Noticias" in respuesta.data
