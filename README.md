@@ -1,2 +1,10 @@
 # blog-noticias
 Portal de noticias digitales - CI/CD y protección de ramas.
+
+
+Integrantes:
+
+CRUZ CRUZ CARLOS YAHIR 092210362 100%
+LÓPEZ CRUZ JOSUÉ 092210583 100%
+PÉREZ PÉREZ JANILET 092210376 100%
+SÁNCHEZ LÓPEZ FÉLIX ALEXIS 092210398 100%
