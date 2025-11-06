@@ -2,7 +2,7 @@
 Portal de noticias digitales - CI/CD y protección de ramas.
 
 
-INTEGRANTES:
+Integrantes:
 
 CRUZ CRUZ CARLOS YAHIR 092210362 100%
 LÓPEZ CRUZ JOSUÉ 092210583 100%
